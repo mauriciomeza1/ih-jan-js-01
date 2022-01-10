@@ -39,9 +39,8 @@ const hasEngine = null
 
 
 //NO PRIMITIVOS
-
-const age = 26 // Number
-const name = "Mauricio" //String
-const student = true // Boolean
-const graduado = undefined //Undefined
-const hasTablet = null //Null
+//OBJETO 
+const  comida = {
+    desayuno: "Hot Cakes",
+    comida: "Chilaquiles",
+}
